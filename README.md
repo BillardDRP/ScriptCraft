@@ -1,5 +1,6 @@
 # Let's begin &hellip;
-[![Build Status](https://travis-ci.org/BillardDRP/ScriptCraft.svg?branch=master)](https://travis-ci.org/BillardDRP/ScriptCraft)
+Travis: [![Build Status](https://travis-ci.org/BillardDRP/ScriptCraft.svg?branch=master)](https://travis-ci.org/BillardDRP/ScriptCraft)
+
 I created ScriptCraft to make it easier for younger programmers to
 create their own Minecraft Mods. Mods are written using the
 JavaScript programming language. Once the ScriptCraft mod is
